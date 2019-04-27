@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BulkSms</string>
+    <string name="title_activity_home">BulkSMS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bulk SMS</string>
+    <string name="nav_header_subtitle">bulk.sms@cseku.ac.bd</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="MGS">Dear X\nHappy Birthday to You. Wish you a Happy return of the day.\n From Y\n
+                   \nDear X\nSoftwear Engineering class has been cancelled. It will be held at 11.40am .\n From Y
+                   \n\nDear X\nOur meeting will be held at 11:00am.\n From Y\n
+                   \nDear X\nEid Mubarak. Wish you a Happy Eid day.\n From Y
+        \n</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_create_group">CreateGroupActivity</string>
+</resources>
